@@ -12,5 +12,11 @@ class CalculatorTest {
         assertEquals(3.0,result);
     }
 
+    @Test
+    void testSquare(){
+        double result = Calculator.square(2.0);
+        assertEquals(4.0, result);
+    }
+
 
 }
