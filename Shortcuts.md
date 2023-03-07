@@ -14,6 +14,7 @@
 | Brief Info                             | Ctrl + mouse | Ctrl + mouse           |
 | Navigate back/forward                  | ⌘⌥ + ←→      | Ctrl +Alt + Left/Right |
 | Next/Previous highlighted error        | Shift + F2   | Shift + F2             |
+| File structure popup                   | ⌘ + F12      | Ctrl + F12             |
 
 
 ## Editing shortcuts
