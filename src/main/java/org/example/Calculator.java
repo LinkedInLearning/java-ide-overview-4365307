@@ -6,4 +6,8 @@ public class Calculator {
         return a + b;
     }
 
+    public static double square(double a){
+        return a*a;
+    }
+
 }
