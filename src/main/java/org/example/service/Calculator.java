@@ -26,6 +26,14 @@ public class Calculator {
         return a * a;
     }
 
+    public static double calculateAverage(List<Integer> numbers){
+        double sum = 0;
+        for (Integer num:numbers) {
+            sum += num;
+        }
+        return sum;
+    }
+
     public static int[] demoStream() {
         return IntStream.of(22, 18, 30, 60)
                 .flatMap(Calculator::primeFactors)

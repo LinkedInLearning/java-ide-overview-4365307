@@ -2,6 +2,8 @@ package org.example.service;
 
 import org.junit.jupiter.api.Test;
 
+import java.util.List;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class CalculatorTest {
@@ -21,6 +23,12 @@ class CalculatorTest {
     @Test
     void demoOfStream() {
         Calculator.demoStream();
+    }
+
+    @Test
+    void testAverage(){
+        double result = Calculator.calculateAverage(List.of(1, 3, 8, 10));
+        assertEquals(5.5, result);
     }
 
 
