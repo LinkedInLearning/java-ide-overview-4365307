@@ -31,7 +31,7 @@ public class Calculator {
         for (Integer num:numbers) {
             sum += num;
         }
-        return sum;
+        return sum / numbers.size();
     }
 
     public static int[] demoStream() {
