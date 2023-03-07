@@ -19,7 +19,7 @@ class CalculatorTest {
     }
 
     @Test
-    void testGreatestCommonDivisor() {
+    void demoOfStream() {
         Calculator.demoStream();
     }
 
