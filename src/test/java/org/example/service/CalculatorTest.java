@@ -27,7 +27,8 @@ class CalculatorTest {
 
     @Test
     void testAverage(){
-        double result = Calculator.calculateAverage(List.of(1, 3, 8, 10));
+        List<Integer> numbers = List.of(1, 3, 8, 10);
+        double result = Calculator.calculateAverage(numbers);
         assertEquals(5.5, result);
     }
 
