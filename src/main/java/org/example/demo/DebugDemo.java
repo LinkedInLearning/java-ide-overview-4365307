@@ -12,15 +12,13 @@ public class DebugDemo {
             //how to stop after 10 times?
             sum+=i;
 
-            System.out.println(sum);
-
             //stop on value change
             sample.value=sum;
 
             //stop on exception
             if(sum>400)
             {
-                throw new IllegalStateException("Demo of exception");
+                //throw new IllegalStateException("Demo of exception");
             }
             
         }
