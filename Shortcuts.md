@@ -1,8 +1,13 @@
 
-# IntelliJ shortcuts
+# IDe shortcuts
+1. [IntelliJ](#intellij-shortcuts)
+2. [VS code](#vs-code)
+3. [Eclipse](#eclipse)
+
+## IntelliJ shortcuts
 
 
-## Essential shortcuts
+### Essential shortcuts
 | Shortcut                               | Mac          | Win/Linux              |
 |----------------------------------------|--------------|------------------------|
 | Search everywhere                      | Double Shift | Double Shift           |
@@ -17,7 +22,7 @@
 | File structure popup                   | ⌘ + F12      | Ctrl + F12             |
 
 
-## Editing shortcuts
+### Editing shortcuts
 | Shortcut                          | Mac          | Win/Linux              |
 |-----------------------------------|--------------|------------------------|
 | Complete statement                | ⌘⇧↩          | Ctrl + Shift + Space   |
@@ -28,3 +33,17 @@
 | Duplicate current line            | ⌘D           | Ctrl + D               |
 | Delete line at caret              | ⌘X           | Ctrl + Y               |
 | Move line / block                 | ⌘⇧ + ↑↓      | Ctrl + Shift + Up/Down |
+
+
+## VS code
+
+| Shortcut             | Mac        | Win/Linux        |
+|----------------------|------------|------------------|
+| Show Command Palette | ⌘⇧P        | Ctrl + Shift + P |
+| New File             | ⌘N         | Ctrl + N         |
+| Quick open           | ⌘P         | Ctrl+P           |
+| Open next            | Ctrl + Tab | Ctrl + Tab       |
+| Go to Symbol...      | ⌘⇧O        | Ctrl+Shift+O     |
+| Go to Definition     | ⌘ + click  | Ctrl + click     |
+
+## Eclipse
