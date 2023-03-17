@@ -1,6 +1,7 @@
 # Java: IDE Overview
 This is the repository for the LinkedIn Learning course Java: IDE Overview. The full course is available from [LinkedIn Learning][lil-course-url].
 
+You can find list of most popular IDE shortcuts [here](Shortcuts.md)
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
