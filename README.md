@@ -1,8 +1,12 @@
 # Java: IDE Overview
 This is the repository for the LinkedIn Learning course Java: IDE Overview. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![Java: IDE Overview][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
+Choosing the right IDE is one of the most important puzzles to solve as you kick off Java development. With many options on the market, how do you know which IDE is best for you? In this course, software developer and mathematician Terezija Semenski guides you through the options available, the tools you need, efficient coding, and much more. Terezija offers an overview of the most popular Java integrated development environments (IDEs), and then follows up with deep dives into IntelliJ IDEA, Eclipse, and Visual Studio Code. Each of these deep dives includes details on downloading and installation, navigation, debugging, and efficient coding. When you complete this course, you’ll be able to confidently select the IDE that is best for you, which can make all the difference when it comes to making your Java development experience smoother.
+
+You can find list of most popular IDE shortcuts [here](Shortcuts.md)
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -21,15 +25,19 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+
+### Instructor
+
+Terezija Semenski 
+                            
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+                            
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/terezija-semenski).
+
+[lil-course-url]: https://www.linkedin.com/learning/java-ide-overview-22309190?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQGdIqAevJahnQ/learning-public-crop_675_1200/0/1683582424211?e=2147483647&v=beta&t=VJ6Sh2zDf1su9IW4CcMFjs_lkCTKiAoObNm62NzSsUI
+
+
 
